@@ -1,4 +1,6 @@
-# 数组方法相关的问题  
+#数组方法相关的问题  
 
 参考资料：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
+# stopPropgation() 阻止事件冒泡   preventDefault 阻止默认事件   
+https://blog.csdn.net/wxl1555/article/details/53128966
